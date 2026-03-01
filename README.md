@@ -15,3 +15,4 @@ Domain control is the main controller of your domain, Which controls things like
 
 ## Creating an Organizational Unit
 Folders in Active Directory are called OUs for organizational units. In Active directory people, users, and computers are objects, including security groups. 
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/8e98e2bcc79e871839ff849d7d78006a6c2c102c/%233.png)
