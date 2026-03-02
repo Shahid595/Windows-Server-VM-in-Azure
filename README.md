@@ -44,4 +44,4 @@ Now, you can see Mike Smith is automatically a member of the group IT workers.
 ### Disbaled Accounts in AD
 * Sometimes an account is disbaled purposefully. If somebody got fired and amaybe they don't know it yet.
 * Double-click on user >  Scroll in Account options > Tick Account is disbaled
-![image alt]()
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/80697620c3a3e592ded626a582d4c5122fa37271/AccountDisabled.jpg)
