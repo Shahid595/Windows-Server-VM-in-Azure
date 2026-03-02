@@ -34,3 +34,6 @@ Adding Tom Brady to the group:
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/f0830742a7a5d9f0e5bfc6aa4f2e8d180b30a371/MikeSmithCopy2.jpg)
 Now, you can see Mike Smith is automatically a member of the group IT workers.
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/ed496b49b2d8a0b5c649ccde39f6bcbbff2b6af2/MikeGroups3.jpg)
+### Resetting a Password in AD
+* When user calls to reset their password,go to users, Right click their name, click reset password.
+![image alt]()
