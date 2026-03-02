@@ -19,4 +19,6 @@ Folders in Active Directory are called OUs for organizational units. In Active d
 
 ### Creating a User in AD
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/095f9f155b326f545c45db21accf80599a76e29e/%234.png)
+
+
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/f54735c070b318b2a949002cc1a0b927c7959c4d/%235.png)
