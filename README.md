@@ -45,3 +45,5 @@ Now, you can see Mike Smith is automatically a member of the group IT workers.
 * Sometimes an account is disbaled purposefully. If somebody got fired and maybe they don't know it yet.
 * Double-click on user >  Scroll in Account options > Tick Account is disbaled (NOTICE: diabled account have a different icon)
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/80697620c3a3e592ded626a582d4c5122fa37271/AccountDisabled.jpg)
+### Find Users
+![image alt]()
