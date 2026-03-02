@@ -31,3 +31,5 @@ Adding Tom Brady to the group:
 *Now that Tom Brady is the part of "IT workers" group. 
 *We can add a new user that might be in the same department/s as Tom brady by simply copying the user.
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/a8730f79cf7b8df0ce8a2e8c226f7bc303a00e22/copyingTom.jpg)
+Now, you can see Mike SMith is automatically a member of the group IT workers.
+![image alt]()
