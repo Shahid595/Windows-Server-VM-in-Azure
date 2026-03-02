@@ -32,4 +32,4 @@ Adding Tom Brady to the group:
 *We can add a new user that might be in the same department/s as Tom brady by simply copying the user.
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/a8730f79cf7b8df0ce8a2e8c226f7bc303a00e22/copyingTom.jpg)
 Now, you can see Mike SMith is automatically a member of the group IT workers.
-![image alt]()
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/f0830742a7a5d9f0e5bfc6aa4f2e8d180b30a371/MikeSmithCopy2.jpg)
