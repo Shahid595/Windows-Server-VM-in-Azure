@@ -37,3 +37,7 @@ Now, you can see Mike Smith is automatically a member of the group IT workers.
 ### Resetting a Password in AD
 * When user calls to reset their password,go to users, Right click their name, click reset password.
 ![image alt]()
+### Unlocking a Account in AD
+* A user calls in and his account is locked, to unlock his account.
+* Double-click his name > User properties is shown > click Account > Click Unlock Account
+![image alt]()
