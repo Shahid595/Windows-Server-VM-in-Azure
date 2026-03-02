@@ -23,3 +23,5 @@ Our first user created in Branch 1
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/f54735c070b318b2a949002cc1a0b927c7959c4d/%235.png)
 User created under Branch 1 of users
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/dfb15552a605a74d1cebf9fcb188f37985e4131c/%236.jpg)
+### Creating a group
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/c17ecff27d2572d06f99e2336de35fd7bc20bd9d/%23groups.png)
