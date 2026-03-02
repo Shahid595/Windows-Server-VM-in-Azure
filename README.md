@@ -48,4 +48,4 @@ Now, you can see Mike Smith is automatically a member of the group IT workers.
 ### Find Users
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/68d0ab1dc15fca7e04bafeb061574ac8c444546e/FindUsers.jpg)
 * To find a specefic user in an unknown location, you can selct the entire directory to find them
-![image alt]()
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/c1025ac144e882f05d468670609a8111c591a04e/FindUsers2.png)
