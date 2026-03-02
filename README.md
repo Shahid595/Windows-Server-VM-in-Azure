@@ -24,4 +24,5 @@ Our first user created in Branch 1
 User created under Branch 1 of users
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/dfb15552a605a74d1cebf9fcb188f37985e4131c/%236.jpg)
 ### Creating a group
+Groups are a good way of organizing people, especially when we're giving permissions to things - granting people the ability to do certain things, we generally want to do it with a group as opposed to a user, even if only one user is in the group. Because when you have more users and you become a bigger organization, you're not going to want to have put individual users permissions to different things. It gets messy and it also gets dangerous from a security perspective. You would rather give the group a permission to a certain thing or apply a GPO to you group or give permission to some certain app or something like that access and then you'd rather put people in this group.
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/c17ecff27d2572d06f99e2336de35fd7bc20bd9d/%23groups.png)
