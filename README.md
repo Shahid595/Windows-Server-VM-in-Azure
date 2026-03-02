@@ -21,5 +21,5 @@ Folders in Active Directory are called OUs for organizational units. In Active d
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/095f9f155b326f545c45db21accf80599a76e29e/%234.png)
 Our first user created in Branch 1
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/f54735c070b318b2a949002cc1a0b927c7959c4d/%235.png)
-User created:
+User created under Branch 1 of users
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/dfb15552a605a74d1cebf9fcb188f37985e4131c/%236.jpg)
