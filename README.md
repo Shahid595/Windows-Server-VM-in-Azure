@@ -40,4 +40,4 @@ Now, you can see Mike Smith is automatically a member of the group IT workers.
 ### Unlocking a Account in AD
 * A user calls in and his account is locked, to unlock his account.
 * Double-click his name > User properties is shown > click Account > Click Unlock Account
-![image alt]()
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/638ccbe30809392a32a3234efeddc9407298495d/unlockaccount.jpg)
