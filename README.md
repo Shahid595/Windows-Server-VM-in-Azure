@@ -30,4 +30,4 @@ Adding Tom Brady to the group:
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/63c5c9c02595e2c1fa93fca9c83c4c338b2c0b8e/Adding%20Tom%20to%20a%20group.jpg)
 *Now that Tom Brady is the part of "IT workers" group. 
 *We can add a new user that might be in the same department/s as Tom brady by simply copying the user.
-![image alt]()
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/a8730f79cf7b8df0ce8a2e8c226f7bc303a00e22/copyingTom.jpg)
