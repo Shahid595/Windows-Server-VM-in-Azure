@@ -36,7 +36,7 @@ Now, you can see Mike Smith is automatically a member of the group IT workers.
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/ed496b49b2d8a0b5c649ccde39f6bcbbff2b6af2/MikeGroups3.jpg)
 ### Resetting a Password in AD
 * When user calls to reset their password,go to users, Right click their name, click reset password.
-![image alt]()
+![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/56cd904d76f671f879f36b1cced6ca93c21c1655/ResetPsswd.jpg)
 ### Unlocking a Account in AD
 * A user calls in and his account is locked, to unlock his account.
 * Double-click his name > User properties is shown > click Account > Click Unlock Account
