@@ -42,6 +42,6 @@ Now, you can see Mike Smith is automatically a member of the group IT workers.
 * Double-click his name > User properties is shown > Click Account > Tick Unlock Account
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/638ccbe30809392a32a3234efeddc9407298495d/unlockaccount.jpg)
 ### Disbaled Accounts in AD
-* Sometimes an account is disbaled purposefully. If somebody got fired and amaybe they don't know it yet.
+* Sometimes an account is disbaled purposefully. If somebody got fired and maybe they don't know it yet.
 * Double-click on user >  Scroll in Account options > Tick Account is disbaled
 ![image alt](https://github.com/Shahid595/Windows-Server-VM-in-Azure/blob/80697620c3a3e592ded626a582d4c5122fa37271/AccountDisabled.jpg)
